@@ -1,0 +1,6 @@
+[Setup]
+Lang=English
+Dir=C:\Program Files (x86)\EaseUS\EaseUS Partition Master 13.0
+Group=EaseUS Partition Master 13.0
+NoIcons=0
+Tasks=desktopicon,quicklaunchicon
