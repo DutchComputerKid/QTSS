@@ -16,4 +16,3 @@ Make sure to have PowerShell 5.0 or higher installed, right click on the PS1 fil
 ## Authors
 
 * **Quintus Snitjer** - *Main Programming* - [DutchComputerKid](https://github.com/DutchComputerKid)
-* **Patrick Galea** - *Bugtesting* 
